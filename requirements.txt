@@ -1,0 +1,9 @@
+pdfminer.six
+tabula-py
+requests
+tabulate
+pandas
+psycopg
+psycopg2-binary
+django
+djangorestframework
